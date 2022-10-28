@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS companyDB;
+CREATE DATABASE companyDB;
+USE companyDB;
